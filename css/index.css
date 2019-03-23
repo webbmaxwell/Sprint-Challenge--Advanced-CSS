@@ -250,6 +250,18 @@ footer {
   margin-bottom: 0;
   font-size: 1.8rem;
 }
+.home .walk .walk-text .btn:hover {
+  color: #23293B;
+  background-color: white;
+  width: 10rem;
+  border-radius: 0.5rem;
+  padding: 0.4rem 0.8rem;
+}
+.home .walk .walk-text .btn:hover p {
+  text-align: center;
+  margin-bottom: 0;
+  font-size: 1.8rem;
+}
 .home .walk .walk-img {
   width: 46%;
   margin-left: 4%;
